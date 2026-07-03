@@ -1,0 +1,73 @@
+export const esProducts: Record<string, string> = {
+  // Product names
+  "prod.golden-sweet-corn.name": "Maíz Dulce Dorado",
+  "prod.heritage-popcorn.name": "Granos de Palomitas Tradicionales",
+  "prod.stone-ground-flour.name": "Harina de Maíz Molido en Piedra",
+  "prod.baby-corn.name": "Tierno Elote Bebé",
+  "prod.blue-corn.name": "Maíz Azul Herencia",
+  "prod.corn-oil.name": "Aceite de Maíz Prensado en Frío",
+  "prod.corn-silk-tea.name": "Té de Barbas de Maíz",
+  "prod.grilling-corn.name": "Paquete de Maíz para Asar",
+  "prod.corn-on-the-cob.name": "Elotes Frescos",
+  "prod.organic-corn-kernels.name": "Granos de Maíz Orgánico",
+  "prod.gourmet-popcorn-tin.name": "Lata de Regalo de Palomitas Gourmet",
+  "prod.corn-starch.name": "Maicena Pura",
+  "prod.corn-salsa-jar.name": "Salsa de Maíz Asado al Fuego",
+  "prod.sweet-corn-cobs.name": "Elotes Dulces con Miel",
+
+  // Product descriptions
+  "prod.golden-sweet-corn.desc": "Cosechados a mano en su punto máximo de dulzura, nuestros Maíz Dulce Dorado rebosan de sabor natural. Perfectos para asar, hervir o añadir a tus ensaladas favoritas de verano.",
+  "prod.heritage-popcorn.desc": "Nuestros granos de palomitas tradicionales explotan en bocados esponjosos y tiernos con un rico sabor a mantequilla. El favorito de la familia para noches de cine y reuniones.",
+  "prod.stone-ground-flour.desc": "Molidas de variedades de maíz herencia, nuestra harina en piedra ofrece sabor y textura auténticos para tortillas, panes y recetas tradicionales.",
+  "prod.baby-corn.desc": "Cosechados jóvenes para máxima ternura, nuestro elote bebé añade un delicado crujido a salteados, ensaladas y platos de inspiración asiática.",
+  "prod.blue-corn.desc": "Una variedad rara con granos índigo profundos, cargados de antioxidantes y un sabor terroso a nuez. Perfecto para tortillas artesanales y polenta.",
+  "prod.corn-oil.desc": "Extraído de granos de maíz premium usando métodos tradicionales de prensado en frío. Rico en vitamina E con un sabor ligero y limpio para cocinar y aderezos.",
+  "prod.corn-silk-tea.desc": "Barbas de maíz secas infusionadas en un té dorado reconfortante con un toque de dulzura. Una infusión tradicional de bienestar disfrutada por generaciones.",
+  "prod.grilling-corn.desc": "Seis mazorcas de maíz dulce premium, seleccionadas por su tamaño y dulzura perfectos para asar. Incluye nuestra receta de mantequilla con hierbas.",
+  "prod.corn-on-the-cob-pack.desc": "Mazorcas frescas de maíz dulce, cosechadas en su punto máximo de madurez. Cada mazorca es seleccionada a mano por tamaño y dulzura. Perfectas para hervir, cocer al vapor o calentar en microondas.",
+  "prod.organic-corn-kernels.desc": "Granos de maíz orgánico certificado, congelados en su punto máximo de frescura para conservar sabor y nutrición. Ideales para sopas, ensaladas, guarniciones y salsa casera.",
+  "prod.gourmet-popcorn-tin.desc": "Una hermosa lata de regalo llena de tres sabores de nuestras palomitas premium: Queso Cheddar Blanco, Crujido de Caramelo y Palomitas de Olla. Perfecta para fiestas y ocasiones especiales.",
+  "prod.corn-starch.desc": "Maicena ultrafina para espesar salsas, aderezos y sopas. También esencial para hornear pasteles y galletas ligeras y esponjosas.",
+  "prod.corn-salsa-jar.desc": "Maíz asado al fuego mezclado con tomates, jalapeños, cebolla y cilantro. Una salsa atrevida y espesa que combina perfectamente con chips, tacos y carnes a la parrilla.",
+  "prod.sweet-corn-cobs.desc": "Mazorcas de maíz naturalmente dulces con sabor a miel. Cada mazorca es carnosa, jugosa y repleta de granos. Un esencial para el asado de verano.",
+
+  // Categories
+  "cat.all": "Todos",
+  "cat.sweetCorn": "Maíz Dulce",
+  "cat.popcorn": "Palomitas",
+  "cat.cornFlour": "Harina de Maíz",
+  "cat.specialty": "Especialidades",
+  "cat.oils": "Aceites",
+  "cat.tea": "Té",
+
+  // UI
+  "specifications": "Especificaciones",
+
+  // Specification keys
+  "spec.Weight": "Peso",
+  "spec.Origin": "Origen",
+  "spec.Growing Method": "Método de cultivo",
+  "spec.Shelf Life": "Vida útil",
+  "spec.Storage": "Almacenamiento",
+  "spec.Variety": "Variedad",
+  "spec.Volume": "Volumen",
+  "spec.Extraction": "Extracción",
+  "spec.Smoke Point": "Punto de humo",
+  "spec.Cafeine": "Cafeína",
+  "spec.Protein Content": "Contenido de proteína",
+  "spec.Antioxidant Level": "Nivel de antioxidantes",
+  "spec.Certification": "Certificación",
+  "spec.Heat Level": "Nivel de picante",
+  "spec.Ingredients": "Ingredientes",
+  "spec.Flavors": "Sabores",
+  "spec.Packaging": "Empaque",
+
+  // Badges
+  "badge.bestSeller": "Más Vendido",
+  "badge.new": "Nuevo",
+  "badge.limited": "Limitado",
+  "badge.seasonal": "De Temporada",
+  "badge.sale": "Oferta",
+  "badge.gift": "Regalo",
+  "badge.spicy": "Picante",
+};

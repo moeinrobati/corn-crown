@@ -1,0 +1,73 @@
+export const deProducts: Record<string, string> = {
+  // Product names
+  "prod.golden-sweet-corn.name": "Goldener Süßmais",
+  "prod.heritage-popcorn.name": "Traditionelle Popcornkerne",
+  "prod.stone-ground-flour.name": "Stein gemahlenes Maismehl",
+  "prod.baby-corn.name": "Zarter Babymais",
+  "prod.blue-corn.name": "Traditioneller Blauer Mais",
+  "prod.corn-oil.name": "Kaltgepresstes Maisöl",
+  "prod.corn-silk-tea.name": "Maisseide Kräutertee",
+  "prod.grilling-corn.name": "Grillmais Set",
+  "prod.corn-on-the-cob.name": "Frischer Maiskolben",
+  "prod.organic-corn-kernels.name": "Bio-Maiskerne",
+  "prod.gourmet-popcorn-tin.name": "Gourmet Popcorn Geschenkdose",
+  "prod.corn-starch.name": "Reine Maisstärke",
+  "prod.corn-salsa-jar.name": "Feuergeröstete Maissalsa",
+  "prod.sweet-corn-cobs.name": "Honig-Süßmaiskolben",
+
+  // Product descriptions
+  "prod.golden-sweet-corn.desc": "Handverlesen bei optimaler Süße – unser Goldener Süßmais spritzt vor natürlichen Aromen. Perfekt zum Grillen, Kochen oder als sommerlicher Salat.",
+  "prod.heritage-popcorn.desc": "Unsere traditionellen Popcornkerne platzen zu fluffigen, zarten Häppchen mit reichem, buttrigem Geschmack. Ein Familienliebling für Filmabende und Zusammenkünfte.",
+  "prod.stone-ground-flour.desc": "Gemahlen aus traditionellen Maissorten – unser Steinmehl liefert authentischen Geschmack und Textur für Tortillas, Brote und traditionelle Rezepte.",
+  "prod.baby-corn.desc": "Jung geerntet für maximale Zartheit – unser Babymais verleiht Pfannengerichten, Salaten und asiatisch inspirierten Gerichten eine delikate Knackigkeit.",
+  "prod.blue-corn.desc": "Eine seltene Sorte mit tief indigofarbenen Kernen, voller Antioxidantien und mit nussig-erdigem Geschmack. Perfekt für handwerkliche Tortillas und Polenta.",
+  "prod.corn-oil.desc": "Gewonnen aus erstklassigen Maiskernen durch traditionelle Kaltpressung. Reich an Vitamin E mit leichtem, reinem Geschmack zum Kochen und für Dressings.",
+  "prod.corn-silk-tea.desc": "Getrocknete Maisseide zu einem wohltuenden goldenen Tee mit feiner Süße aufgebrüht. Ein traditioneller Wellnessaufguss, seit Generationen geschätzt.",
+  "prod.grilling-corn.desc": "Sechs Kolben erstklassigen Süßmais, ausgewählt für perfekte Größe und Süße zum Grillen. Inklusive unserem Signature Kräuterbutter-Rezept.",
+  "prod.corn-on-the-cob-pack.desc": "Frisch vom Hof geerntete Süßmaiskolben, gepflückt bei optimaler Reife. Jeder Kolben wird handverlesen nach Größe und Süße. Perfekt zum Kochen, Dämpfen oder in der Mikrowelle.",
+  "prod.organic-corn-kernels.desc": "Zertifizierte Bio-Maiskerne, bei optimaler Frische schockgefroren für maximalen Geschmack und Nährwert. Ideal für Suppen, Salate, Beilagen und hausgemachte Salsa.",
+  "prod.gourmet-popcorn-tin.desc": "Eine wunderschöne Geschenkdose gefüllt mit drei Sorten unseres Premium-Popcorns: Weißer Cheddar, Karamell-Knusper und Kesselmais. Perfekt für Feiertage und besondere Anlässe.",
+  "prod.corn-starch.desc": "Ultrafeine Maisstärke zum Andicken von Saucen, Bratensäften und Suppen. Auch unverzichtbar für die Zubereitung von luftigem Kuchen und Keksen.",
+  "prod.corn-salsa-jar.desc": "Rauchig-feuergerösteter Mais vermischt mit Tomaten, Jalapeños, Zwiebeln und Koriander. Eine kräftige, grobe Salsa – perfekt zu Chips, Tacos und gegrilltem Fleisch.",
+  "prod.sweet-corn-cobs.desc": "Natürlich süße Maiskolben mit honigartigem Geschmack. Jeder Kolben ist prall, saftig und platzt vor Körnern. Ein Sommergrillen-Muss.",
+
+  // Categories
+  "cat.all": "Alle",
+  "cat.sweetCorn": "Süßmais",
+  "cat.popcorn": "Popcorn",
+  "cat.cornFlour": "Maismehl",
+  "cat.specialty": "Spezialitäten",
+  "cat.oils": "Öle",
+  "cat.tea": "Tee",
+
+  // UI
+  "specifications": "Spezifikationen",
+
+  // Specification keys
+  "spec.Weight": "Gewicht",
+  "spec.Origin": "Herkunft",
+  "spec.Growing Method": "Anbaumethode",
+  "spec.Shelf Life": "Haltbarkeit",
+  "spec.Storage": "Lagerung",
+  "spec.Variety": "Sorte",
+  "spec.Volume": "Volumen",
+  "spec.Extraction": "Gewinnung",
+  "spec.Smoke Point": "Rauchpunkt",
+  "spec.Caffeine": "Koffein",
+  "spec.Protein Content": "Proteingehalt",
+  "spec.Antioxidant Level": "Antioxidantiengehalt",
+  "spec.Certification": "Zertifizierung",
+  "spec.Heat Level": "Schärfegrad",
+  "spec.Ingredients": "Zutaten",
+  "spec.Flavors": "Geschmacksrichtungen",
+  "spec.Packaging": "Verpackung",
+
+  // Badges
+  "badge.bestSeller": "Bestseller",
+  "badge.new": "Neu",
+  "badge.limited": "Limitiert",
+  "badge.seasonal": "Saisonal",
+  "badge.sale": "Angebot",
+  "badge.gift": "Geschenk",
+  "badge.spicy": "Scharf",
+};
