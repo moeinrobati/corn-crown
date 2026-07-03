@@ -1,36 +1,161 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌽 Corn Crown
 
-## Getting Started
+<p align="center">
+  <strong>A modern e-commerce experience built with Next.js.</strong><br/>
+  Designed and developed with a strong focus on clean UI, smooth interactions, responsive layouts, and performance.
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://corn-crown.vercel.app"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://github.com/moeinrobati/corn-crown"><strong>📦 Repository</strong></a>
+</p>
+
+---
+
+## Preview
+
+> Replace the image below with your latest project screenshot.
+
+![Corn Crown Preview](./public/preview.png)
+
+---
+
+# About
+
+Corn Crown is a modern front-end e-commerce application developed using **Next.js** and **TypeScript**.
+
+The project focuses on delivering a clean shopping experience through responsive layouts, smooth animations, multilingual support, and a modern user interface.
+
+The application has been deployed on Vercel and is intended as a portfolio project demonstrating front-end architecture and UI implementation.
+
+---
+
+# Features
+
+* Responsive Design
+* Modern User Interface
+* Product Showcase
+* Product Details Page
+* Shopping Cart UI
+* User Login Interface
+* Search Interface
+* Dark Mode
+* Loading Screen
+* Scroll-based Hero Video
+* Smooth Page Interactions
+* Multilingual Support
+* Optimized Component Structure
+
+---
+
+# Pages
+
+* Home
+* Products
+* Product Details
+* Cart
+* About
+* Contact
+* Recipes
+
+---
+
+# Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* Material UI
+* Tailwind CSS
+* ESLint
+
+---
+
+# Project Structure
+
+```text
+app/
+components/
+public/
+styles/
+types/
+utils/
+```
+
+---
+
+# Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/moeinrobati/corn-crown.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+https://corn-crown.vercel.app
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# GitHub Repository
 
-## Deploy on Vercel
+https://github.com/moeinrobati/corn-crown
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Design
+
+The interface was customized and assembled using reusable UI components and modern front-end practices, with attention to responsiveness, consistency, and usability.
+
+---
+
+# Performance
+
+The project emphasizes:
+
+* Fast page rendering
+* Responsive layouts
+* Clean component organization
+* Modern development workflow
+* Optimized user experience
+
+---
+
+# Future Improvements
+
+* Backend integration
+* Authentication
+* Payment gateway
+* Order management
+* User dashboard
+* Favorites / Wishlist
+* Admin panel
+
+---
+
+# Author
+
+**Moein Robati**
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub.
